@@ -8,5 +8,6 @@ Angular.js application.
 * Highlight factories as their functions are called
 * etc.
 
+#### Angalyzer Screenshot
 ![Angalyzer Screenshot](https://raw.githubusercontent.com/colin92/Angalyzer/master/Angalyzer.jpg)
 
