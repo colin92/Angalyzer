@@ -1,5 +1,4 @@
 # Angalyzer
-***
 A D3.js application for analyzing and generating a graphical web of any given 
 Angular.js application.
 
