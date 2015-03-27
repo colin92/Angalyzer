@@ -1,4 +1,3 @@
-// Code goes here
 var otherdata = {
   "nodes":[
     {"name":"mainCtrl", "group":"1"},
