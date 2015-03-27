@@ -1,4 +1,4 @@
-e strict';
+'use strict';
 
 var Angalyzer = function() {
   var app = window.app;
